@@ -34,12 +34,6 @@ Funcicion numero 6, el menu:✅ permite al usuario interactuar con un programa, 
 programa realiza una acción específica según la opción elegida. Para crear un menú, se utiliza un bucle while para mostrar el menú repetidamente hasta que el usuario elija salir. 
 Dentro del bucle, se utiliza la función input() para obtener la entrada del usuario y se utilizan estructuras condicionales (if, elif, else) para determinar la acción a realizar según la opción elegida
 
-![Image](https://github.com/user-attachments/assets/c2174693-0418-48e9-9f70-e402038dc452)
-![Image](https://github.com/user-attachments/assets/4a8f5677-62a3-41a6-b61b-f88aff7abb26)
-![Image](https://github.com/user-attachments/assets/e46af1e9-86b7-44de-9941-347fef168ca6)
-![Image](https://github.com/user-attachments/assets/d3f13422-46eb-46d0-b6ad-35bf217c8f80)
-![Image](https://github.com/user-attachments/assets/b7ccadae-584c-4707-b2ac-c69714dda118)
-![Image](https://github.com/user-attachments/assets/200b00f8-2bb1-4f36-8cce-d888fcfa5bce)
 ![Image](https://github.com/user-attachments/assets/67e2b8cc-b231-42ea-ae0f-c978422404b7)
 ![Image](https://github.com/user-attachments/assets/4fc8c2ae-a2e2-4082-a4c7-c096dfa19b94)
 ![Image](https://github.com/user-attachments/assets/7f14fde4-d14d-48e6-a741-920461b96259)
